@@ -1,5 +1,5 @@
-<img width="1920" height="1080" alt="Screenshot (1518)" src="https://github.com/user-attachments/assets/a5d77aa1-bbf1-4672-8902-cdc8482b3ad0" />
-<img width="1920" height="1080" alt="Screenshot (1521)" src="https://github.com/user-attachments/assets/6eba31cc-a1ba-4fea-af00-458b16778496" />
+<img width="1920" height="1012" alt="Screenshot (1518)" src="https://github.com/user-attachments/assets/df8fe24f-8cab-4d30-aa47-608c60915bf8" />
+<img width="1920" height="1015" alt="Screenshot (1521)" src="https://github.com/user-attachments/assets/26b2657e-5f9a-44d3-8324-fd2f4e0657b5" />
 # Arc Network Monitor Tool 🟢⚙️
 
 A professional-grade monitoring utility built for the **Arc Layer-1 Stablecoin Hackathon**. This tool provides real-time visibility into the Arc network's gas consumption and transaction throughput.
@@ -15,3 +15,4 @@ A professional-grade monitoring utility built for the **Arc Layer-1 Stablecoin H
    ```bash
    git clone [https://github.com/Aragoorn/Arc-Monitor-Tool-v1.git](https://github.com/Aragoorn/Arc-Monitor-Tool-v1.git)
    cd Arc-Monitor-Tool-v1
+
