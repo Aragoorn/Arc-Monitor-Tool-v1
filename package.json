@@ -1,0 +1,16 @@
+{
+  "name": "arc-network-monitor",
+  "version": "1.0.0",
+  "description": "Real-time gas and block monitor for Arc L1 Network.",
+  "main": "dist/monitor.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "tsc && node dist/monitor.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
