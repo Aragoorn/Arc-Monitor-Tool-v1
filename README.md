@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot (1518)" src="https://github.com/user-attachments/assets/a5d77aa1-bbf1-4672-8902-cdc8482b3ad0" />
+<img width="1920" height="1080" alt="Screenshot (1521)" src="https://github.com/user-attachments/assets/6eba31cc-a1ba-4fea-af00-458b16778496" />
 # Arc Network Monitor Tool 🟢⚙️
 
 A professional-grade monitoring utility built for the **Arc Layer-1 Stablecoin Hackathon**. This tool provides real-time visibility into the Arc network's gas consumption and transaction throughput.
