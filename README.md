@@ -15,4 +15,16 @@ A professional-grade monitoring utility built for the **Arc Layer-1 Stablecoin H
    ```bash
    git clone [https://github.com/Aragoorn/Arc-Monitor-Tool-v1.git](https://github.com/Aragoorn/Arc-Monitor-Tool-v1.git)
    cd Arc-Monitor-Tool-v1
+   ## Configuration (.env)
 
+Create a `.env` file in the root directory and configure your network parameters:
+
+```env
+ARC_RPC_URL=[https://your-arc-rpc-endpoint.com](https://your-arc-rpc-endpoint.com)
+PORT=3000
+Install dependencies: npm install
+Run the monitor: npm start
+Features in Detail
+Gas Optimization: Tracks live gas price metrics to help smart contract developers execute transactions during low-congestion windows.
+
+Event Logging: Captures and streams real-time block creation events directly from the Arc L1 network layer.
