@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  arc-monitor:
+    build: .
+    container_name: arc-monitor-tool
+    restart: always
+    environment:
+      - ARC_RPC_URL=https://rpc.testnet.arc.network
+      - DISCORD_WEBHOOK_URL=YOUR_DISCORD_WEBHOOK_URL_HERE
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./reports:/app/reports
