@@ -1,3 +1,5 @@
+<img width="1103" height="993" alt="Screenshot (2157)" src="https://github.com/user-attachments/assets/7c5d9558-fd7e-4ab5-bea3-e3699864308a" />
+<img width="1091" height="980" alt="Screenshot (2158)" src="https://github.com/user-attachments/assets/a1e20469-8add-48a2-b3c3-d643c1b3fa57" />
 
 # 🚀 Arc L1 Enterprise Network Monitor & Telemetry Suite
 
